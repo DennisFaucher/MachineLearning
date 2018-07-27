@@ -13,5 +13,7 @@ Enjoy.
 Game of Thrones Machine Learning
 ================================
 Goal: To predict deaths based on character characteristics
-Succeed/Fail: Fail. COuld not find any commonality
+
+Succeed/Fail: Fail. Could not find any commonality
+
 Files: character-deaths-clean.csv, GOT_Model_accuracy.py
