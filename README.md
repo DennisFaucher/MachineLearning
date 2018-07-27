@@ -22,6 +22,6 @@ Tweet Sentiment Analysis Machine Learning
 =========================================
 Goal: To use 1M pre-tagged tweets to train a phrase sentiment prediction model
 
-Succeed/Fail: Succeed. Model 75% accurate
+Succeed/Fail: Success. Model 75% accurate
 
 Files: 140neg.csv, 140pos.csv, nltk_1M.py, nltk_save_model.py, nltk_load_1M_model.py
